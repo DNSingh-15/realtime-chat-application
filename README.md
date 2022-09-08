@@ -7,6 +7,7 @@
 
 ## installation guide
 ```
+npm init
 npm i expres
 npm i socket.io
 ```
