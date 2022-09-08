@@ -1,4 +1,4 @@
-# chat-app :+1:
+# realtime-chat-application :+1:
 ### Chat-application with socket.io and node.js
 
 ## framework and library
